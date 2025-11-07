@@ -1,0 +1,5 @@
+{
+  "name": "Azkar Companion",
+  "description": "A modern, clean, and interactive web application to help Muslims read their daily Azkar (remembrances), featuring morning and evening supplications with counters and progress tracking.",
+  "requestFramePermissions": []
+}
